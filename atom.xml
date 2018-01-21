@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zhouqchao.github.io/"/>
   <updated>2018-01-20T13:07:39.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zhouqchao.github.io/</id>
   
   <author>
     <name>zhouqichao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>a</title>
-    <link href="http://yoursite.com/2018/01/20/a/"/>
-    <id>http://yoursite.com/2018/01/20/a/</id>
+    <link href="http://zhouqchao.github.io/2018/01/20/a/"/>
+    <id>http://zhouqchao.github.io/2018/01/20/a/</id>
     <published>2018-01-20T10:57:06.000Z</published>
     <updated>2018-01-20T13:07:39.000Z</updated>
     
@@ -34,8 +34,8 @@
   
   <entry>
     <title>j</title>
-    <link href="http://yoursite.com/2018/01/20/j/"/>
-    <id>http://yoursite.com/2018/01/20/j/</id>
+    <link href="http://zhouqchao.github.io/2018/01/20/j/"/>
+    <id>http://zhouqchao.github.io/2018/01/20/j/</id>
     <published>2018-01-20T10:21:06.000Z</published>
     <updated>2018-01-20T10:27:24.000Z</updated>
     
@@ -43,23 +43,23 @@
     
     </summary>
     
-      <category term="cat1" scheme="http://yoursite.com/categories/cat1/"/>
+      <category term="cat1" scheme="http://zhouqchao.github.io/categories/cat1/"/>
     
-      <category term="cat1.1" scheme="http://yoursite.com/categories/cat1/cat1-1/"/>
+      <category term="cat1.1" scheme="http://zhouqchao.github.io/categories/cat1/cat1-1/"/>
     
-      <category term="cat2" scheme="http://yoursite.com/categories/cat2/"/>
+      <category term="cat2" scheme="http://zhouqchao.github.io/categories/cat2/"/>
     
-      <category term="cat3" scheme="http://yoursite.com/categories/cat3/"/>
+      <category term="cat3" scheme="http://zhouqchao.github.io/categories/cat3/"/>
     
     
-      <category term="tag1" scheme="http://yoursite.com/tags/tag1/"/>
+      <category term="tag1" scheme="http://zhouqchao.github.io/tags/tag1/"/>
     
   </entry>
   
   <entry>
     <title>b</title>
-    <link href="http://yoursite.com/2018/01/20/b/"/>
-    <id>http://yoursite.com/2018/01/20/b/</id>
+    <link href="http://zhouqchao.github.io/2018/01/20/b/"/>
+    <id>http://zhouqchao.github.io/2018/01/20/b/</id>
     <published>2018-01-20T10:00:38.000Z</published>
     <updated>2018-01-20T10:42:43.000Z</updated>
     
@@ -76,14 +76,14 @@
     
     </summary>
     
-      <category term="cat1" scheme="http://yoursite.com/categories/cat1/"/>
+      <category term="cat1" scheme="http://zhouqchao.github.io/categories/cat1/"/>
     
-      <category term="cat1.1" scheme="http://yoursite.com/categories/cat1/cat1-1/"/>
+      <category term="cat1.1" scheme="http://zhouqchao.github.io/categories/cat1/cat1-1/"/>
     
     
-      <category term="tag2" scheme="http://yoursite.com/tags/tag2/"/>
+      <category term="tag2" scheme="http://zhouqchao.github.io/tags/tag2/"/>
     
-      <category term="tag3" scheme="http://yoursite.com/tags/tag3/"/>
+      <category term="tag3" scheme="http://zhouqchao.github.io/tags/tag3/"/>
     
   </entry>
   
